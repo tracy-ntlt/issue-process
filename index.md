@@ -768,3 +768,343 @@ Relationship & Continuity Risks:
 Supplier cooperation levels indicate long-term partnership viability. From inflexible planning to complete business termination, these risks require proactive relationship management and contingency planning.
 Force Majeure & Emergency Risks:
 External factors beyond normal business operations that can completely disrupt supply chains, requiring immediate crisis management and alternative sourcing strategies.
+
+CQI Defect Classification Lists - Quality Assurance Team
+Classification Key:
+●	A: Critical Defect
+●	B: Major Defect
+●	C: Minor Defect
+1. WhiteWood Unit Inspection:
+Defect Inspection Stages:
+Critical (A):
+●	Wrong MC%
+●	Mold/Mildew
+●	Insects
+●	Wrong Material / Species
+Major (B):
+●	Wrong Dimension (+/-3mm)
+●	Wrong Design
+Minor (C):
+●	Odor
+Surface:
+Critical (A):
+●	Sharp Fastener- CRITICAL (Injury)
+Major (B):
+●	Sharp Edges/Corners
+●	Poor Repair
+●	Chipped Wood
+●	Scratch
+●	Gouge
+●	Dead Knot
+●	Gapping
+●	Knot Split - > 1"
+Minor (C):
+●	Dirty
+●	Knot Split - < 1"
+●	Dent = 3mm+
+●	Small Dent <3mm
+Function/Construction:
+Critical (A):
+●	Delamination - Structural
+●	Splitting
+●	Warping
+●	Wrong Fastener
+●	Joint Failure
+●	Out of Square
+●	Missing Fastener
+●	Splinters
+●	Corrosion/Rust on Hardware
+●	Damaged Hardware
+Major (B):
+●	Poor Function
+●	Drawer/Door Alignment
+●	Loose connections
+●	Delamination- Cosmetic
+●	Poor Glue Coverage
+●	Wrong Glue
+●	Wrong Support Block Dimension
+●	Missing Support Block
+●	Wrong Support Block Material
+●	Wrong Joint
+●	Joint Expansion
+Minor (C):
+●	Excess Glue
+2. Finished Unit - Pre-Pack Line Inspection:
+Defect Inspection Stages (Finish Review):
+Major (B):
+●	Wrong Color / Gloss
+●	Wrong Distressing
+●	Color Variation - Unit
+●	Color Variation - Lot
+●	Excess Finish
+●	Uneven Finish
+●	Orange Peel
+●	Overspray
+●	Sand Through
+External Surface Review
+Critical (A):
+●	Insects
+●	Wrong MC%
+●	Mold/Mildew
+●	Tip Restraint
+●	Sharp Fastener- CRITICAL (Injury)
+●	Splinters
+Major (B):
+●	Cracks
+●	Splitting
+●	Poor Glue Coverage
+●	Warping
+●	Drawer/Door Alignment
+●	Floor Contact Cleanliness
+●	Corrosion/Rust on Hardware
+●	Joint Failure
+●	Loose connections
+●	Not Square
+●	Sharp
+●	Gouge
+●	Dead Knot
+●	Wrong Glue
+●	Pinholes
+●	Poor Repair
+●	Rough
+●	Chipped Finish
+●	Fingerprints in Finish
+●	Scratch
+●	Blushing/Cloudy
+●	Bubbles
+●	Delamination
+●	Excess Glue
+●	Wrong Joint
+●	Joint Gapped
+●	Joint Expansion
+●	Chipped Wood
+●	Dent >5mm
+●	Wrong Connection
+●	Damaged Hardware
+●	Knot Split - > 1"
+Minor (C):
+●	Odor
+●	Dirty
+●	Knot Split - < 1"
+●	Skuff/Mar/Rub
+●	Tool Marks
+●	Dent <5mm
+Item Function Review
+Critical (A):
+●	Does not meet stability requirements
+Major (B):
+●	Poor Function
+●	Cannot Level
+●	Broken Leveler
+3. OBQ/Final Inspection
+External Pack Review
+Critical (A):
+●	Wrong Carton Print
+●	Missing/incorrect COO information
+●	Missing UL/CUL logo
+●	Missing/incorrect SKU and/or serial number label
+Major (B):
+●	Does not match BOM
+Internal Pack Review:
+Critical (A):
+●	Missing Tip Restraint (If Applicable)
+Major (B):
+●	Unsecured Hardware
+●	Inadequate protection
+●	Unsecured Components
+●	Does not match BOM
+●	Inconsistent Pack - Lot
+Item/Pack Labeling
+Critical (A):
+●	Missing applicable warning label
+●	Unreadable bar code labels
+●	Missing applicable law label
+●	Missing CARB/TSCA information
+●	Missing/incorrect SKU and/or serial number label
+Major (B):
+●	Missing hang tag/warranty information
+Component Inspection:
+Critical (A):
+●	Insects
+●	Wrong MC%
+●	Mold/Mildew
+●	Sharp Fastener- CRITICAL (Injury)
+●	Joint Failure
+Major (B):
+●	Wrong Dimension (+/-3mm)
+●	Wrong Material / Species
+●	Wrong Design
+●	Cracks
+●	Splitting
+●	Poor Glue Coverage
+●	Warping
+●	Loose connections
+●	Not Square
+●	Sharp
+●	Corrosion/Rust on Hardware
+●	Splinters
+●	Gouge
+●	Knot Split - > 1"
+●	Dead Knot
+●	Wrong Glue
+●	Wrong Connection
+●	Delamination
+●	Wrong Joint
+●	Joint Gapped
+●	Joint Expansion
+●	Chipped Wood
+●	Damaged Hardware
+●	Knot Split - < 1"
+Minor (C):
+●	Odor
+●	Chipped Finish
+●	Fingerprints in Finish
+●	Scratch
+●	Dirty
+●	Blushing/Cloudy
+●	Bubbles
+●	Rough Relief Cuts
+●	Excess Glue
+●	Skuff/Mar/Rub
+●	Dent >5mm
+●	Dent <5mm
+Item Assembly:
+Critical (A):
+●	Unable to assemble
+●	Missing Instructions
+●	Missing components
+●	No Nylok
+●	No Washer
+●	Incorrect / Not-Approved Hardware
+Major (B):
+●	Wrong Dimension
+●	Wrong Material / Species
+●	Wrong Design
+●	Cannot Level
+●	Broken Leveler
+●	Bad Instructions
+●	Corrosion/Rust on Hardware
+●	Loose connections
+●	Rough Relief Cuts
+●	Wrong Connection
+●	Damaged Hardware
+Finish Review:
+Major (B):
+●	Wrong Color / Gloss
+●	Wrong Distressing
+●	Color Variation - Unit
+●	Color Variation - Lot
+●	Excess Finish
+●	Uneven Finish
+●	Orange Peel
+●	Overspray
+●	Sand Through
+Tip Restraint
+Critical (A):
+●	Insects
+●	Wrong MC%
+●	Mold/Mildew
+External Surface Review:
+Critical (A):
+●	Sharp Fastener- CRITICAL (Injury)
+●	Splinters
+●	Joint Failure
+Major (B):
+●	Cracks
+●	Splitting
+●	Poor Glue Coverage
+●	Warping
+●	Drawer/Door Alignment
+●	Floor Contact Cleanliness
+●	Corrosion/Rust on Hardware
+●	Loose connections
+●	Not Square
+●	Sharp
+●	Gouge
+●	Dead Knot
+●	Wrong Glue
+●	Pinholes
+●	Poor Repair
+●	Rough
+●	Chipped Finish
+●	Fingerprints in Finish
+●	Scratch
+●	Blushing/Cloudy
+●	Bubbles
+●	Delamination
+●	Excess Glue
+●	Wrong Joint
+●	Joint Gapped
+●	Joint Expansion
+●	Chipped Wood
+●	Dent >5mm
+●	Wrong Connection
+●	Damaged Hardware
+●	Knot Split - > 1"
+Minor (C):
+●	Odor
+●	Dirty
+●	Knot Split - < 1"
+●	Skuff/Mar/Rub
+●	Tool Marks
+●	Dent <5mm
+Item Function Review:
+Critical (A):
+●	Does not meet stability requirements
+Major (B):
+●	Poor Function
+●	Cannot Level
+●	Broken Leveler
+Internal Construction Review:
+Critical (A):
+●	Insects
+●	Mold/Mildew
+●	Sharp Fastener- CRITICAL (Injury)
+●	Splitting
+●	Missing Shipping Blocks
+●	Missing Support Block
+●	Missing Fastener
+●	Joint Failure
+●	Not Square
+Major (B):
+●	Poor Glue Coverage
+●	Warping
+●	Wrong Support Block
+●	Wrong Support Block Material
+●	Loose connections
+●	Wrong Glue
+●	Delamination
+●	Excess Glue
+●	Wrong Joint
+●	Joint Gapped
+●	Joint Expansion
+●	Chipped Wood
+●	Wrong Connection
+Minor (C):
+●	Odor
+4. Upholstery Defect Classification:
+Carton Defects:
+●	Major: Collapse >30%, Damage, Dirty
+●	Minor: Collapse <30%
+Mechanism Defects:
+●	Critical: Tube Wrong, Missing Rivet
+●	Major: Missing/Loose (Loose=Major), Deformation/Damage, Joints/Rivets Rust >20%
+●	Minor: Joints/Rivets Rust <20%
+Frame Defects:
+●	Critical: Plywood Cracking
+●	Major: Exposed Staples, Missing Blocks, Mould, Gap between parts
+●	Minor: Missing Glue
+Fabric/PU/PVC Defects:
+●	Major: Damage, Color Shades Variation, Cut Wrong, Incorrect Stitching, Dirty
+Leather Defects:
+●	Major: Broken Surface, Brands, Grain Variation
+Foam Defects:
+●	Major: Firm/Soft - Foam, Differ Seat Feeling, Lack Of Fiber
+●	Minor: Can't (assumed Minor), Can (assumed Minor)
+Components Defects:
+●	Major: Missing, Wrong
+Function - Electronics:
+●	Major: Charging, Motor, Massage, Heat, Bluetooth, Sound
+Note:
+●	For outsource, we could ask factory to open more pcs for checking if many small issues. Each time is 10 pcs.
+●	For critical issue, based on label on carton, we could know the date.
